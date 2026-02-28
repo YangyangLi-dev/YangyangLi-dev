@@ -5,18 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangyangli-dev" alt="yangyangli-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Next.js, React, Redux, Spring Boot, AWS](https://nylgbs.penguin-benefits.com/)
+- 🔭 I’m currently working on [Next.js, React, Spring Boot, Kafka, Elasticsearch, AWS](https://cision.com/)
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning ** AI **
 
 - 💬 Ask me about **Web Development, Software Architecture**
 
-- 📫 How to reach me **yangyangli.ca@gmail.com**
+- 📫 How to reach me **yangyangli.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yangyangli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yangyangli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yangyangli-ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yangyangli-ca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yangyangli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yangyangli-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9038261/yangyangli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9038261/yangyangli" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yangyangli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yangyangli" height="30" width="40" /></a>
 <a href="https://medium.com/@yangyangli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yangyangli-dev" height="30" width="40" /></a>
