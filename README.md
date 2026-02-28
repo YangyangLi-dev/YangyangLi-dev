@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yangyang Li</h1>
 <h3 align="center">Senior Full Stack Engineer | Cloud Architect | AI Agent & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yangyangli-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yangyangli-dev" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://yangyangli.dev" alt="yangyangli-dev" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yangyangli-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yangyangli-dev" /> </p>
+<p align="left"> <a href="https://yangyangli.dev"><img src="https://github-profile-trophy.vercel.app/?username=yangyangli-dev" alt="yangyangli-dev" /></a> </p>
 
 ---
 
@@ -29,7 +27,7 @@ Currently, I am deeply immersed in the world of **AI Agents and Machine Learning
 
 ### 🧠 Currently Exploring
 
-- 🤖 **AI Agents:** Building autonomous agentic workflows using LangChain, AutoGPT, and custom LLM integrations.
+- 🤖 **AI Agents:** Building autonomous agentic workflows using LangChain, Google ADK, and custom LLM integrations.
 - 📉 **Machine Learning:** Deepening my knowledge in supervised/unsupervised learning, neural networks, and MLOps.
 - ⚡ **High-Performance Systems:** Continuously optimizing for sub-100ms latencies and 100K+ req/sec throughput.
 
@@ -49,10 +47,8 @@ Currently, I am deeply immersed in the world of **AI Agents and Machine Learning
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yangyangli-ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yangyangli-ca" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yangyangli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yangyangli-ca" height="30" width="40" /></a>
   <a href="https://yangyangli.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/globe.svg" alt="yangyangli.dev" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/9038261/yangyangli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9038261/yangyangli" height="30" width="40" /></a>
-  <a href="https://medium.com/@yangyangli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yangyangli-dev" height="30" width="40" /></a>
   <a href="mailto:yangyangli.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="yangyangli.dev@gmail.com" height="30" width="40" /></a>
 </p>
 
